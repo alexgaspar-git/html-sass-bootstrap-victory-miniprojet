@@ -14416,6 +14416,30 @@ button.bg-blancNav:focus {
   margin-left: 10rem !important;
 }
 
+.m-6 {
+  margin: 6rem !important;
+}
+
+.mt-6,
+.my-6 {
+  margin-top: 6rem !important;
+}
+
+.mr-6,
+.mx-6 {
+  margin-right: 6rem !important;
+}
+
+.mb-6,
+.my-6 {
+  margin-bottom: 6rem !important;
+}
+
+.ml-6,
+.mx-6 {
+  margin-left: 6rem !important;
+}
+
 .p-0 {
   padding: 0 !important;
 }
@@ -14584,6 +14608,30 @@ button.bg-blancNav:focus {
   padding-left: 10rem !important;
 }
 
+.p-6 {
+  padding: 6rem !important;
+}
+
+.pt-6,
+.py-6 {
+  padding-top: 6rem !important;
+}
+
+.pr-6,
+.px-6 {
+  padding-right: 6rem !important;
+}
+
+.pb-6,
+.py-6 {
+  padding-bottom: 6rem !important;
+}
+
+.pl-6,
+.px-6 {
+  padding-left: 6rem !important;
+}
+
 .m-n1 {
   margin: -0.25rem !important;
 }
@@ -14726,6 +14774,30 @@ button.bg-blancNav:focus {
 .ml-n10,
 .mx-n10 {
   margin-left: -10rem !important;
+}
+
+.m-n6 {
+  margin: -6rem !important;
+}
+
+.mt-n6,
+.my-n6 {
+  margin-top: -6rem !important;
+}
+
+.mr-n6,
+.mx-n6 {
+  margin-right: -6rem !important;
+}
+
+.mb-n6,
+.my-n6 {
+  margin-bottom: -6rem !important;
+}
+
+.ml-n6,
+.mx-n6 {
+  margin-left: -6rem !important;
 }
 
 .m-auto {
@@ -14886,6 +14958,25 @@ button.bg-blancNav:focus {
   .mx-sm-10 {
     margin-left: 10rem !important;
   }
+  .m-sm-6 {
+    margin: 6rem !important;
+  }
+  .mt-sm-6,
+  .my-sm-6 {
+    margin-top: 6rem !important;
+  }
+  .mr-sm-6,
+  .mx-sm-6 {
+    margin-right: 6rem !important;
+  }
+  .mb-sm-6,
+  .my-sm-6 {
+    margin-bottom: 6rem !important;
+  }
+  .ml-sm-6,
+  .mx-sm-6 {
+    margin-left: 6rem !important;
+  }
   .p-sm-0 {
     padding: 0 !important;
   }
@@ -15019,6 +15110,25 @@ button.bg-blancNav:focus {
   .px-sm-10 {
     padding-left: 10rem !important;
   }
+  .p-sm-6 {
+    padding: 6rem !important;
+  }
+  .pt-sm-6,
+  .py-sm-6 {
+    padding-top: 6rem !important;
+  }
+  .pr-sm-6,
+  .px-sm-6 {
+    padding-right: 6rem !important;
+  }
+  .pb-sm-6,
+  .py-sm-6 {
+    padding-bottom: 6rem !important;
+  }
+  .pl-sm-6,
+  .px-sm-6 {
+    padding-left: 6rem !important;
+  }
   .m-sm-n1 {
     margin: -0.25rem !important;
   }
@@ -15132,6 +15242,25 @@ button.bg-blancNav:focus {
   .ml-sm-n10,
   .mx-sm-n10 {
     margin-left: -10rem !important;
+  }
+  .m-sm-n6 {
+    margin: -6rem !important;
+  }
+  .mt-sm-n6,
+  .my-sm-n6 {
+    margin-top: -6rem !important;
+  }
+  .mr-sm-n6,
+  .mx-sm-n6 {
+    margin-right: -6rem !important;
+  }
+  .mb-sm-n6,
+  .my-sm-n6 {
+    margin-bottom: -6rem !important;
+  }
+  .ml-sm-n6,
+  .mx-sm-n6 {
+    margin-left: -6rem !important;
   }
   .m-sm-auto {
     margin: auto !important;
@@ -15288,6 +15417,25 @@ button.bg-blancNav:focus {
   .mx-md-10 {
     margin-left: 10rem !important;
   }
+  .m-md-6 {
+    margin: 6rem !important;
+  }
+  .mt-md-6,
+  .my-md-6 {
+    margin-top: 6rem !important;
+  }
+  .mr-md-6,
+  .mx-md-6 {
+    margin-right: 6rem !important;
+  }
+  .mb-md-6,
+  .my-md-6 {
+    margin-bottom: 6rem !important;
+  }
+  .ml-md-6,
+  .mx-md-6 {
+    margin-left: 6rem !important;
+  }
   .p-md-0 {
     padding: 0 !important;
   }
@@ -15421,6 +15569,25 @@ button.bg-blancNav:focus {
   .px-md-10 {
     padding-left: 10rem !important;
   }
+  .p-md-6 {
+    padding: 6rem !important;
+  }
+  .pt-md-6,
+  .py-md-6 {
+    padding-top: 6rem !important;
+  }
+  .pr-md-6,
+  .px-md-6 {
+    padding-right: 6rem !important;
+  }
+  .pb-md-6,
+  .py-md-6 {
+    padding-bottom: 6rem !important;
+  }
+  .pl-md-6,
+  .px-md-6 {
+    padding-left: 6rem !important;
+  }
   .m-md-n1 {
     margin: -0.25rem !important;
   }
@@ -15534,6 +15701,25 @@ button.bg-blancNav:focus {
   .ml-md-n10,
   .mx-md-n10 {
     margin-left: -10rem !important;
+  }
+  .m-md-n6 {
+    margin: -6rem !important;
+  }
+  .mt-md-n6,
+  .my-md-n6 {
+    margin-top: -6rem !important;
+  }
+  .mr-md-n6,
+  .mx-md-n6 {
+    margin-right: -6rem !important;
+  }
+  .mb-md-n6,
+  .my-md-n6 {
+    margin-bottom: -6rem !important;
+  }
+  .ml-md-n6,
+  .mx-md-n6 {
+    margin-left: -6rem !important;
   }
   .m-md-auto {
     margin: auto !important;
@@ -15690,6 +15876,25 @@ button.bg-blancNav:focus {
   .mx-lg-10 {
     margin-left: 10rem !important;
   }
+  .m-lg-6 {
+    margin: 6rem !important;
+  }
+  .mt-lg-6,
+  .my-lg-6 {
+    margin-top: 6rem !important;
+  }
+  .mr-lg-6,
+  .mx-lg-6 {
+    margin-right: 6rem !important;
+  }
+  .mb-lg-6,
+  .my-lg-6 {
+    margin-bottom: 6rem !important;
+  }
+  .ml-lg-6,
+  .mx-lg-6 {
+    margin-left: 6rem !important;
+  }
   .p-lg-0 {
     padding: 0 !important;
   }
@@ -15823,6 +16028,25 @@ button.bg-blancNav:focus {
   .px-lg-10 {
     padding-left: 10rem !important;
   }
+  .p-lg-6 {
+    padding: 6rem !important;
+  }
+  .pt-lg-6,
+  .py-lg-6 {
+    padding-top: 6rem !important;
+  }
+  .pr-lg-6,
+  .px-lg-6 {
+    padding-right: 6rem !important;
+  }
+  .pb-lg-6,
+  .py-lg-6 {
+    padding-bottom: 6rem !important;
+  }
+  .pl-lg-6,
+  .px-lg-6 {
+    padding-left: 6rem !important;
+  }
   .m-lg-n1 {
     margin: -0.25rem !important;
   }
@@ -15936,6 +16160,25 @@ button.bg-blancNav:focus {
   .ml-lg-n10,
   .mx-lg-n10 {
     margin-left: -10rem !important;
+  }
+  .m-lg-n6 {
+    margin: -6rem !important;
+  }
+  .mt-lg-n6,
+  .my-lg-n6 {
+    margin-top: -6rem !important;
+  }
+  .mr-lg-n6,
+  .mx-lg-n6 {
+    margin-right: -6rem !important;
+  }
+  .mb-lg-n6,
+  .my-lg-n6 {
+    margin-bottom: -6rem !important;
+  }
+  .ml-lg-n6,
+  .mx-lg-n6 {
+    margin-left: -6rem !important;
   }
   .m-lg-auto {
     margin: auto !important;
@@ -16092,6 +16335,25 @@ button.bg-blancNav:focus {
   .mx-xl-10 {
     margin-left: 10rem !important;
   }
+  .m-xl-6 {
+    margin: 6rem !important;
+  }
+  .mt-xl-6,
+  .my-xl-6 {
+    margin-top: 6rem !important;
+  }
+  .mr-xl-6,
+  .mx-xl-6 {
+    margin-right: 6rem !important;
+  }
+  .mb-xl-6,
+  .my-xl-6 {
+    margin-bottom: 6rem !important;
+  }
+  .ml-xl-6,
+  .mx-xl-6 {
+    margin-left: 6rem !important;
+  }
   .p-xl-0 {
     padding: 0 !important;
   }
@@ -16225,6 +16487,25 @@ button.bg-blancNav:focus {
   .px-xl-10 {
     padding-left: 10rem !important;
   }
+  .p-xl-6 {
+    padding: 6rem !important;
+  }
+  .pt-xl-6,
+  .py-xl-6 {
+    padding-top: 6rem !important;
+  }
+  .pr-xl-6,
+  .px-xl-6 {
+    padding-right: 6rem !important;
+  }
+  .pb-xl-6,
+  .py-xl-6 {
+    padding-bottom: 6rem !important;
+  }
+  .pl-xl-6,
+  .px-xl-6 {
+    padding-left: 6rem !important;
+  }
   .m-xl-n1 {
     margin: -0.25rem !important;
   }
@@ -16338,6 +16619,25 @@ button.bg-blancNav:focus {
   .ml-xl-n10,
   .mx-xl-n10 {
     margin-left: -10rem !important;
+  }
+  .m-xl-n6 {
+    margin: -6rem !important;
+  }
+  .mt-xl-n6,
+  .my-xl-n6 {
+    margin-top: -6rem !important;
+  }
+  .mr-xl-n6,
+  .mx-xl-n6 {
+    margin-right: -6rem !important;
+  }
+  .mb-xl-n6,
+  .my-xl-n6 {
+    margin-bottom: -6rem !important;
+  }
+  .ml-xl-n6,
+  .mx-xl-n6 {
+    margin-left: -6rem !important;
   }
   .m-xl-auto {
     margin: auto !important;
@@ -16829,4 +17129,73 @@ header .txtImg button {
   padding-top: 20px;
   font-size: 25px;
   font-weight: bold;
+}
+
+.section2 .book {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("../img/book-bg.jpg");
+  background-size: cover;
+  color: white;
+  padding-bottom: 100px;
+}
+
+.section2 .book h1 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.section2 .book .reserve {
+  display: flex;
+  background-color: white;
+  color: black;
+  text-align: center;
+}
+
+.section2 .book .reserve img {
+  padding: 0;
+}
+
+.section2 .book .reserve form {
+  padding-top: 30px;
+}
+
+.section2 .book .reserve form h3 {
+  font-size: 40px;
+  padding-bottom: 20px;
+}
+
+.section2 .book .reserve form button {
+  height: 40px;
+  width: 50px;
+}
+
+.section2 .book .reserve form input {
+  border-bottom: 1px solid #EEEEEE;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-radius: 0px;
+}
+
+.section2 .book .reserve form select {
+  border-bottom: 1px solid #EEEEEE;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-radius: 0px;
+}
+
+.section2 .get h1 {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.section2 .get button {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 17px 30px;
 }
