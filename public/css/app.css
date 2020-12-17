@@ -17018,6 +17018,10 @@ body {
   font-family: "Spectral";
 }
 
+header {
+  background-color: #EAF0FF;
+}
+
 header nav h1 {
   margin-top: 50px;
   font-size: 65px;
@@ -17229,7 +17233,7 @@ header .txtImg button {
 .section3 .menu .card {
   border: solid 50px #F2F6FF;
   background-color: #F2F6FF;
-  margin: 0 50px;
+  margin: 0 50px 130px 50px;
 }
 
 .section3 .menu .card h3 {
@@ -17253,4 +17257,101 @@ header .txtImg button {
 .section3 .menu .texte p {
   font-size: 20px;
   color: #9A9A9A;
+}
+
+.section3 .blogMain {
+  background-color: #F2F6FF;
+  padding-bottom: 100px;
+}
+
+.section3 .blogMain h3 {
+  font-size: 30px;
+  font-weight: bold;
+  padding: 80px;
+}
+
+.section3 .blogMain .blog {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.section3 .blogMain .blog .cardBlog {
+  display: flex;
+  padding-bottom: 35px;
+}
+
+.section3 .blogMain .blog .cardBlog .cardL {
+  position: relative;
+  width: 350px;
+  height: 300px;
+}
+
+.section3 .blogMain .blog .cardBlog .cardL img {
+  height: 100%;
+}
+
+.section3 .blogMain .blog .cardBlog .cardL span {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: white;
+  opacity: 0.8;
+  font-size: 24px;
+  padding: 10px;
+}
+
+.section3 .blogMain .blog .cardBlog .cardR {
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-right: 20px;
+  background-color: #FFFFFF;
+  width: 350px;
+  height: 300px;
+}
+
+.section3 .blogMain .blog .cardBlog .cardR h4 {
+  font-weight: bold;
+  font-size: 27px;
+}
+
+.section3 .blogMain .blog .cardBlog .cardR span {
+  color: #7A7A7A;
+}
+
+.section3 .blogMain .blog .cardBlog .cardR p {
+  font-size: 18px;
+  padding-top: 15px;
+  color: #9A9A9A;
+}
+
+.section3 .blogMain .blog .cardBlog .cardR a {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.section3 .signUp {
+  background-image: url("../img/signup-bg.jpg");
+  background-size: cover;
+  padding-bottom: 80px;
+  color: white;
+}
+
+.section3 .signUp h5 {
+  font-size: 35px;
+  font-weight: bold;
+  padding: 100px 0 50px 0;
+}
+
+.section3 .signUp form input {
+  font-size: 20px;
+  width: 500px;
+  height: 60px;
+}
+
+.section3 .signUp form button {
+  font-size: 20px;
+  font-weight: bold;
+  height: 60px;
+  margin-bottom: 9px;
 }
