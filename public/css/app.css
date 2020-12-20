@@ -17635,3 +17635,100 @@ footer .icones .rond {
   height: 60px;
   margin-bottom: 9px;
 }
+
+.sectContact {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 100px;
+}
+
+.sectContact .msgContact {
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 100px;
+}
+
+.sectContact .msgContact .msgCL {
+  width: 49%;
+}
+
+.sectContact .msgContact .msgCL h3 {
+  margin-bottom: 60px;
+  font-weight: bold;
+}
+
+.sectContact .msgContact .msgCL .msgInput {
+  display: flex;
+  justify-content: space-between;
+}
+
+.sectContact .msgContact .msgCL .msgInput .msgInputL {
+  display: flex;
+  flex-direction: column;
+  width: 48%;
+}
+
+.sectContact .msgContact .msgCL .msgInput .msgInputL input {
+  background-color: #F4F4F4;
+  height: 50px;
+  border: none;
+  font-size: 19px;
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+
+.sectContact .msgContact .msgCL .msgInput .msgInputR {
+  width: 48%;
+  display: flex;
+  flex-direction: column;
+}
+
+.sectContact .msgContact .msgCL .msgInput .msgInputR textarea {
+  background-color: #F4F4F4;
+  width: 100%;
+  border: none;
+  font-size: 19px;
+  height: 120px;
+  margin-bottom: 20px;
+}
+
+.sectContact .msgContact .msgCL .msgInput .msgInputR button {
+  width: 100%;
+  padding: 11px 0;
+}
+
+.sectContact .msgContact .msgCR {
+  width: 49%;
+  display: flex;
+  flex-direction: column;
+}
+
+.sectContact .msgContact .msgCR h3 {
+  margin-bottom: 60px;
+  font-weight: bold;
+}
+
+.sectContact .msgContact .msgCR span {
+  font-size: 21px;
+  font-weight: bold;
+  color: #AAAAAA;
+}
+
+.sectContact .msgContact .msgCR span:first-of-type {
+  font-weight: normal;
+  color: #9A9A9A;
+  font-size: 19px;
+  margin-bottom: 20px;
+}
+
+.sectContact .gMaps {
+  width: 80%;
+  margin-bottom: 100px;
+}
+
+.sectContact .gMaps iframe {
+  width: 100%;
+  height: 600px;
+}
