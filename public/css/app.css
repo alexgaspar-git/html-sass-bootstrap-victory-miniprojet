@@ -17357,16 +17357,205 @@ header .txtImg button {
 }
 
 footer {
-  height: 100px;
+  height: 20vh;
+}
+
+footer .icones {
+  display: flex;
+  width: 20%;
+  justify-content: space-evenly;
 }
 
 footer .icones .rond {
+  width: 30px;
+  height: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: white 1px solid;
   background-color: white;
-  text-align: center;
-  border: 2px solid white;
   color: #3D485C;
-  display: inline-block;
-  border-radius: 60px;
-  box-shadow: 0px 0px 2px #888;
-  padding: 0.2em 0.6em;
+  border-radius: 50%;
+  padding: 20px;
+}
+
+.txtImgM {
+  background-image: url("../img/banner-bg.jpg");
+  background-size: cover;
+  height: 35vh;
+  margin-top: 50px;
+  padding-top: 120px;
+  color: white;
+}
+
+.txtImgM span {
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.txtImgM h1 {
+  font-size: 65px;
+}
+
+.txtImgM p {
+  font-size: 19px;
+}
+
+.txtImgM button {
+  padding: 12px;
+  font-weight: bold;
+}
+
+.cardMenu {
+  padding: 80px 350px;
+  display: flex;
+  justify-content: center;
+}
+
+.cardMenu .cmL {
+  width: 40%;
+}
+
+.cardMenu .cmL img {
+  height: 100%;
+  width: 100%;
+}
+
+.cardMenu .cmR {
+  width: 60%;
+  background-color: #F2F6FF;
+  padding: 40px 0;
+}
+
+.cardMenu .cmR hr {
+  width: 86.6%;
+}
+
+.cardMenu .cmR h3 {
+  width: 80%;
+  font-size: 36px;
+  padding-left: 49px;
+  font-weight: bold;
+}
+
+.cardMenu .cmR .cards {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 20px;
+}
+
+.cardMenu .cmR .cards .card {
+  border: none;
+  width: 40%;
+}
+
+.cardMenu .cmR .cards .card .cardIn .prix {
+  position: relative;
+}
+
+.cardMenu .cmR .cards .card .cardIn .prix img {
+  width: 100%;
+}
+
+.cardMenu .cmR .cards .card .cardIn .prix span {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background-color: white;
+  opacity: 0.8;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.cardMenu .cmR .cards .card .cardIn .texte {
+  padding: 25px;
+}
+
+.cardMenu .cmR .cards .card .cardIn .texte span {
+  font-size: 24px;
+  padding-bottom: 30px;
+}
+
+.cardMenu .cmR .cards .card .cardIn .texte p {
+  color: #C6C6C6;
+  font-size: 18px;
+}
+
+.cardMenuBis {
+  padding: 80px 350px;
+  display: flex;
+  justify-content: center;
+}
+
+.cardMenuBis .cmL {
+  width: 40%;
+  order: 2;
+}
+
+.cardMenuBis .cmL img {
+  height: 100%;
+  width: 100%;
+}
+
+.cardMenuBis .cmR {
+  order: 1;
+  width: 60%;
+  background-color: #F2F6FF;
+  padding: 40px 0;
+}
+
+.cardMenuBis .cmR hr {
+  width: 86.6%;
+}
+
+.cardMenuBis .cmR h3 {
+  width: 80%;
+  font-size: 36px;
+  padding-left: 49px;
+  font-weight: bold;
+}
+
+.cardMenuBis .cmR .cards {
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 20px;
+}
+
+.cardMenuBis .cmR .cards .card {
+  border: none;
+  width: 40%;
+}
+
+.cardMenuBis .cmR .cards .card .cardIn .prix {
+  position: relative;
+}
+
+.cardMenuBis .cmR .cards .card .cardIn .prix img {
+  width: 100%;
+}
+
+.cardMenuBis .cmR .cards .card .cardIn .prix span {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  background-color: white;
+  opacity: 0.8;
+  font-size: 24px;
+  font-weight: bold;
+  padding: 10px;
+}
+
+.cardMenuBis .cmR .cards .card .cardIn .texte {
+  padding: 25px;
+}
+
+.cardMenuBis .cmR .cards .card .cardIn .texte span {
+  font-size: 24px;
+  padding-bottom: 30px;
+}
+
+.cardMenuBis .cmR .cards .card .cardIn .texte p {
+  color: #C6C6C6;
+  font-size: 18px;
 }
