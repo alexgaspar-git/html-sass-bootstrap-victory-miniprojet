@@ -17559,3 +17559,79 @@ footer .icones .rond {
   color: #C6C6C6;
   font-size: 18px;
 }
+
+.sectBlog {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-top: 100px;
+}
+
+.sectBlog .blogMain {
+  width: 50%;
+  margin-bottom: 50px;
+}
+
+.sectBlog .blogMain .blogT {
+  position: relative;
+}
+
+.sectBlog .blogMain .blogT img {
+  width: 100%;
+}
+
+.sectBlog .blogMain .blogT span {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 25px;
+  font-weight: bold;
+  background-color: white;
+  padding: 10px 20px;
+  opacity: 0.8;
+}
+
+.sectBlog .blogMain .blogB {
+  display: flex;
+  flex-direction: column;
+  background-color: #F2F6FF;
+  padding: 35px;
+}
+
+.sectBlog .blogMain .blogB span:first-of-type {
+  margin-bottom: 20px;
+  color: #808EA2;
+  font-size: 18px;
+}
+
+.sectBlog .blogMain .blogB span:last-of-type {
+  margin-bottom: 30px;
+  color: #9EA5B1;
+  font-size: 17px;
+}
+
+.sectBlogTwo {
+  background-image: url("../img/signup-bg.jpg");
+  background-size: cover;
+  padding-bottom: 80px;
+  color: white;
+}
+
+.sectBlogTwo h5 {
+  font-size: 35px;
+  font-weight: bold;
+  padding: 100px 0 50px 0;
+}
+
+.sectBlogTwo form input {
+  font-size: 20px;
+  width: 500px;
+  height: 60px;
+}
+
+.sectBlogTwo form button {
+  font-size: 20px;
+  font-weight: bold;
+  height: 60px;
+  margin-bottom: 9px;
+}
